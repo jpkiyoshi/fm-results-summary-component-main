@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Solution](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV/hub)
+-   Live Site URL: [Live Site](https://jp-fm-results-summary.netlify.app/)
 
 ## My process
 
